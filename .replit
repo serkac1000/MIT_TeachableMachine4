@@ -2,6 +2,7 @@
 channel = "stable-24_05"
 
 [workflows]
+runButton = "Debug Pose"
 
 [[workflows.workflow]]
 name = "Debug Pose"
